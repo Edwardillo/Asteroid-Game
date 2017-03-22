@@ -1,0 +1,3 @@
+Content\Imagenes\bulleteu1.xnb
+Content\Imagenes\bs.xnb
+Content\Imagenes\bola.xnb
